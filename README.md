@@ -14,13 +14,13 @@
 
 - 🤝 I’m looking for help with **contributing to YOLO or GAN-based vision models and learning advanced backend scaling strategies.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mian-JunaidBabar](https://github.com/Mian-JunaidBabar)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Mian-JunaidBabar)
 
 - 💬 Ask me about **Full-stack development, AI/ML projects in Python, Firebase integrations, or solo-building large systems.**
 
 - 📫 How to reach me **junaidbabar121@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BIzvBBPLuP_GuVqWbTqZu_PnJf9AlDoK/view?usp=drive_link](https://drive.google.com/file/d/1BIzvBBPLuP_GuVqWbTqZu_PnJf9AlDoK/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BIzvBBPLuP_GuVqWbTqZu_PnJf9AlDoK/view?usp=drive_link)
 
 - ⚡ Fun fact **I’ve built and deployed complete web + Android LMS systems solo — and I actually like debugging more than writing code (weird, I know).**
 
