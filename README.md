@@ -1,4 +1,4 @@
-# Junaid-Babar
+# Junaid Babar
 <h1 align="center">Hi 👋, I'm Junaid Babar</h1>
 <h3 align="center">Full Stack Web Developer | AI/ML Enthusiast | BCS Student</h3>
 
