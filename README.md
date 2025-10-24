@@ -48,7 +48,7 @@ I work with a modern, professional technology stack chosen for performance, scal
 
 -   **Email:** `junaidbabar121@gmail.com`
 -   **LinkedIn:** [linkedin.com/in/mian-junaidbabar](https://www.linkedin.com/in/mian-junaidbabar/)
--   **Portfolio:** [junaidbabar-dev.vercel.app](https://junaidbabar-dev.vercel.app/)
+-   **Portfolio:** [junaidbabar-dev.vercel.app](https://junaidbabar.vercel.app/)
 
 ---
 
