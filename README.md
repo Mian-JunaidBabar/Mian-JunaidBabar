@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![View My Portfolio](https://img.shields.io/badge/View_My_Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://junaidbabar-dev.vercel.app/)
+[![View My Portfolio](https://img.shields.io/badge/View_My_Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://junaidbabar.vercel.app/)
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mian-junaidbabar/)
 
 </div>
