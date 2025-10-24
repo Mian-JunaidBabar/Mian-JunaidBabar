@@ -1,42 +1,61 @@
-# Junaid Babar
-<h1 align="center">Hi 👋, I'm Junaid Babar</h1>
-<h3 align="center">Full Stack Web Developer | AI/ML Enthusiast | BCS Student</h3>
+<div align="center">
+  <h1 align="center">Hi 👋, I'm Junaid Babar</h1>
+  <h3 align="center">Software Engineer Specializing in AI-Powered Web Applications</h3>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mian-junaidbabar&label=Profile%20views&color=0e75b6&style=flat" alt="mian-junaidbabar" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mian-junaidbabar" alt="mian-junaidbabar" /></a> </p>
+[![View My Portfolio](https://img.shields.io/badge/View_My_Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://junaidbabar-dev.vercel.app/)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mian-junaidbabar/)
 
-- 🔭 I’m currently working on **remote collaboration tool named Harmoni for my FYP.**
+</div>
 
-- 🌱 I’m currently learning **React, Tailwind CSS, Node.js (advanced), GANs, YOLOv5, and deployment on Oracle Cloud.**
+---
 
-- 👯 I’m looking to collaborate on **AI/ML projects, full-stack web apps, or open-source LMS platforms.**
+### 👨‍💻 About Me
 
-- 🤝 I’m looking for help with **contributing to YOLO or GAN-based vision models and learning advanced backend scaling strategies.**
+I'm a software engineer with a deep passion for building intelligent, scalable systems that solve real-world problems. My expertise lies at the intersection of full-stack web development and artificial intelligence, where I leverage modern frameworks like **Next.js** and **Nest.js** to create robust applications with AI at their core.
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Mian-JunaidBabar)
+I thrive on turning complex business requirements into clean, efficient, and maintainable code. Whether it's architecting a microservice, training a neural network, or designing a user-friendly interface, my goal is to build technology that is not just functional, but impactful.
 
-- 💬 Ask me about **Full-stack development, AI/ML projects in Python, Firebase integrations, or solo-building large systems.**
+---
 
-- 📫 How to reach me **junaidbabar121@gmail.com**
+### 🚀 What I'm Currently Building
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BIzvBBPLuP_GuVqWbTqZu_PnJf9AlDoK/view?usp=drive_link)
+I'm focused on two high-impact projects that showcase my skills in enterprise-level software and AI product development:
 
-- ⚡ Fun fact **I’ve built and deployed complete web + Android LMS systems solo — and I actually like debugging more than writing code (weird, I know).**
+-   **OmniBlox @ Cubic Solutions:** As an Associate Software Engineer, I am a key contributor to the complete architectural overhaul of OmniBlox, a core ERP/CRM platform. We are migrating a legacy PHP system to a modern, scalable stack using **Nest.js** and **Next.js** to solve critical performance and maintainability challenges.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/junaid-babar-7bb4b2264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junaid-babar-7bb4b2264" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22234841" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22234841" height="30" width="40" /></a>
-<a href="https://kaggle.com/mianjunaidbabar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mianjunaidbabar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mian_junaidbabar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mian_junaidbabar" height="30" width="40" /></a>
-</p>
+-   **Harmoni AI (Final Year Project):** I am building an all-in-one, intelligent team collaboration tool designed to eliminate context-switching. Its core innovation is an **AI Meeting Assistant** that transcribes conversations and autonomously converts verbal commitments into structured, assigned tasks.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mian-junaidbabar&show_icons=true&locale=en&layout=compact" alt="mian-junaidbabar" /></p>
+### 🛠️ My Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mian-junaidbabar&show_icons=true&locale=en" alt="mian-junaidbabar" /></p>
+I work with a modern, professional technology stack chosen for performance, scalability, and developer experience.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mian-junaidbabar&" alt="mian-junaidbabar" /></p>
+| Category         | Technologies                                                                          |
+| ---------------- | ------------------------------------------------------------------------------------- |
+| **Frontend**     | `Next.js`, `React`, `TypeScript`, `Tailwind CSS`, `Framer Motion`                       |
+| **Backend**      | `Nest.js`, `Node.js`, `Express.js`, `REST APIs`                                       |
+| **AI / ML**      | `Python`, `TensorFlow`, `PyTorch`, `OpenCV`, `Generative AI (Gemini)`                   |
+| **Databases**    | `PostgreSQL`, `Firebase`, `MySQL`, `Supabase`                                         |
+| **DevOps & Tools** | `Docker`, `Git`, `Vercel`, `AWS`, `Google Cloud`, `CI/CD`                               |
+
+---
+
+### 📫 Get in Touch
+
+-   **Email:** `junaidbabar121@gmail.com`
+-   **LinkedIn:** [linkedin.com/in/mian-junaidbabar](https://www.linkedin.com/in/mian-junaidbabar/)
+-   **Portfolio:** [junaidbabar-dev.vercel.app](https://junaidbabar-dev.vercel.app/)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mian-junaidbabar&show_icons=true&locale=en&layout=compact&theme=dark" alt="mian-junaidbabar" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mian-junaidbabar&show_icons=true&locale=en&theme=dark" alt="mian-junaidbabar" />
+  <br/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mian-junaidbabar&theme=darkhub" alt="mian-junaidbabar" /></a>
+</div>
